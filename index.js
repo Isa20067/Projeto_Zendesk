@@ -186,14 +186,3 @@ camisaListrada.addEventListener('mouseout', function(){
 
 
 
-// document.getElementById('botaoMais').addEventListener('click', function(){
-//     let maisConteudo = document.getElementById('maisConteudo');
-//     if (maisConteudo.style.display === 'none') {
-//         maisConteudo.style.display = 'block';
-//         this.textContent = 'Mostrar menos';
-//     } else {
-//         maisConteudo.style.display = 'none';
-//         this.textContent = 'Mostrar Mais'
-//     }
-// })
-
